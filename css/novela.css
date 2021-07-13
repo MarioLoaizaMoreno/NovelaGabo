@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: rgb(114, 153, 231);
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  
+  h1{
+    text-align: center;
+  
+  } 
+  
+  .header {
+    background-color: rgb(34, 62, 139);
+    height: 70px;
+  }
+  
+  
+  
+  .logo {
+    float: left;
+    padding: 10px;
+    background-color: white;
+  }
+  
+  .menu {
+    float: right;
+    margin: 24px;
+  }
+  
+  .menu a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+  }
+
+  .banner2{
+    background-image: url(../img/gabo11.jpg);
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 100px 100px;
+  }
+  
+  .Portada{
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .banner2 h1 {
+    text-align: right;
+    font-size: 80px;
+    padding: 150px 50px;
+  }
+
+  .descripción {
+    background-color: white;
+    color: black;
+    padding: 20px 100px 70px 100px;
+    text-align: justify;
+  }
+  
+  .descripción h2 {
+    text-align: center;
+    padding: 10px;
+    background-color:blue;
+    color:white;
+  }
+
+  .personajes {
+    background-color: white;
+    color: black;
+    padding: 20px 100px 70px 100px;
+    text-align: justify;
+  }
+  
+  .personajes h2 {
+    text-align: center;
+    padding: 10px;
+    background-color:blue;
+    color:white;
+  }
+
+  .adaptaciones {
+    background-color: white;
+    color: black;
+    padding: 20px 100px 70px 100px;
+    text-align: justify;
+  }
+  
+  .adaptaciones h2 {
+    text-align: center;
+    padding: 10px;
+    background-color:blue;
+    color:white;
+  }
+  
